@@ -12,3 +12,8 @@ dsh-superagent 的演示与试验仓库。
 - 主线分支：`main`
 - agent 分支：`agent/<name>`
 - 单次请求保持小而明确，便于验证「评估 → 执行 → 交付」整条链路
+
+## 链路验证
+
+- 日期：2026-11-19
+- superagent 已能从 Issue 触发到 PR
